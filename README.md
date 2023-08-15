@@ -1,15 +1,15 @@
 <h1 align="center">Hello 👋, I'm Vahdet</h1>
 <h3 align="center">A passionate Javascript and Flutter Developer</h3>
 
-- 🔭 I’m currently working on **Flutter and NodeJS projects**
+- 🔭 I’m currently working on **Flutter and Kotlin projects**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **other developers**
 
-- 🤝 I’m looking for help with **Web3 Development**
+- 🤝 I’m looking for help with **Mobile App Development**
 
-- 💬 Ask me about **Flutter and NodeJS**
+- 💬 Ask me about **Flutter and Kotlin**
 
 - 📫 How to reach me **vahdet.karatas@gmail.com**
 
