@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Vahdet</h1>
-<h3 align="center">A passionate Mobile App Developer Developer</h3>
+<h3 align="center">A passionate Mobile App Developer</h3>
 
 - 🔭 I’m currently working on **Flutter and Kotlin projects**
 
