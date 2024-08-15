@@ -1,7 +1,9 @@
 <h1 align="center">Hello 👋, I'm Vahdet</h1>
-<h3 align="center">A passionate Mobile App Developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 - 🔭 I’m currently working on **Flutter and Kotlin projects**
+
+- - 🔭 I’m currently working on **NodeJS and ReactJS projects**
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -9,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Mobile App Development**
 
-- 💬 Ask me about **Flutter and Kotlin**
+- 💬 Ask me about **Javascript,Flutter and Kotlin**
 
 - 📫 How to reach me **vahdet.karatas@gmail.com**
 
