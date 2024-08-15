@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Flutter and Kotlin projects**
 
-- - 🔭 I’m currently working on **NodeJS and ReactJS projects**
+- 🔭 I’m currently working on **NodeJS and ReactJS projects**
 
 - 🌱 I’m currently learning **Data Science**
 
